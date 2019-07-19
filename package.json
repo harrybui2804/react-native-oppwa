@@ -1,0 +1,37 @@
+{
+  "name": "react-native-oppwa",
+  "version": "1.0.3",
+  "description": "A React Native library for Oppwa | Hyper pay payment",
+  "main": "index",
+  "rnpm": {
+    "android": {
+      "packageInstance": "new OppwaPackage()"
+    }
+  },
+  "scripts": {
+    "test": "flow"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "oppwa"
+  ],
+  "author": {
+    "name": "Mohamed Anouar Kotti",
+    "email": "kottianouar@gmail.com"
+  },
+  "homepage": "https://github.com/kottiDev/react-native-oppwa",
+  "bugs": {
+    "url": "https://github.com/kottiDev/react-native-oppwa/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kottiDev/react-native-oppwa.git"
+  },
+  "license": "MIT"
+}
